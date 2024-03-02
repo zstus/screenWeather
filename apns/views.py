@@ -2,6 +2,7 @@ from django.shortcuts import render
 
 # Create your views here.
 # this is test for git.
+# to Server!! go go!
 
 from apns2.client import APNsClient
 from apns2.payload import Payload

@@ -4,6 +4,8 @@ from django.shortcuts import render
 # this is test for git.
 # to Server!! go go!
 # from 2 client conflicts!
+# from my desktop
+# merged all
 
 from apns2.client import APNsClient
 from apns2.payload import Payload
